@@ -4,7 +4,7 @@ A clean, minimal, production-ready **Voice-to-Text Desktop Application** built w
 
 Push-to-talk voice transcription with real-time streaming - a functional clone of Wispr Flow's core workflow.
 
-![SubSpace Voice Demo](https://via.placeholder.com/600x400?text=SubSpace+Voice+Demo)
+
 
 ## ✨ Features
 
