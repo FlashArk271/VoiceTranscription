@@ -5,6 +5,7 @@ A clean, minimal, production-ready **Voice-to-Text Desktop Application** built w
 Push-to-talk voice transcription with real-time streaming - a functional clone of Wispr Flow's core workflow.
 
 
+Demo Video Link: https://drive.google.com/file/d/12YVZxg4nGYWzsiTqsp82Q7flit6Ue3xm/view?usp=sharing
 
 ## ✨ Features
 
